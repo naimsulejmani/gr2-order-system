@@ -10,6 +10,3 @@ class OrderApi extends BaseApi {
         return response.json();
     }
 }
-//
-// const orderApi1 = new OrderApi();
-// const orderApi2 = new BaseApi("/api/v1/orders");
